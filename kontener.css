@@ -1,0 +1,28 @@
+#container{
+
+height: 400px;
+width: 400px;
+background-color: green;
+
+
+}
+
+
+
+#kwadrat{
+
+
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: relative;  left :200px;
+    
+}
+
+#kwadrat1{
+
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;  bottom :18px;
+}
